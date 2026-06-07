@@ -16,7 +16,7 @@ MonoBehaviour:
   m_GUID: 0ed4b233e3233774d8c1a2815e39d902
   m_SerializeEntries:
   - m_GUID: 94ca68e713ab4c6438183b4a40f6a056
-    m_Address: Assets/HotUpdateDemo/Prefabs/UI/LoginPanel.prefab
+    m_Address: LoginPanel
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
